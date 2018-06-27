@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebContent/jquery-easyui-1.3.3/jquery.min.js,WebContent/jquery-easyui-1.3.3/locale/easyui-lang-zh_CN.js,WebContent/jquery/jquery-3.1.1.js,WebContent/js/jquery-1.10.2.min.js,WebContent/jquery-easyui-1.3.3/locale/easyui-lang-cz.js,WebContent/jquery-easyui-1.3.3/locale/easyui-lang-jp.js,WebContent/jquery-easyui-1.3.3/locale/easyui-lang-zh_TW.js
+validator.Unchecked=
